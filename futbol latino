@@ -1,0 +1,16 @@
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN HD
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48703
+#EXTINF:-1 tvg-id="ext" group-title="Channels",DAZN HD
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48703
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA LIGATV BAR 1 FHD
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48747
+#EXTINF:-1 tvg-id="ext" group-title="Channels",LA LIGATV BAR 1 FHD
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48747
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48817
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Movistar Vamos
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48822
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Movistar Vamos
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48823
